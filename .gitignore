@@ -2,6 +2,7 @@
 # Files left by emacs (AMR's editor)
 *~
 #*
+tests.json
 
 .DS_Store
 .vscode/
