@@ -1,17 +1,16 @@
 """
 CMSC 14100
-Autumn 2022
+Autumn 2023
 
 Test code for Homework #3
 """
-
-import hw3
 import os
 import sys
 
-import pytest
-import test_helpers as helpers
+import hw3
 
+import pytest
+import helpers
 
 # Handle the fact that the test code may not
 # be in the same directory as the solution code
@@ -35,36 +34,38 @@ to_hit_check = [
     (1, 0, False),
 ]
 
-
-@pytest.mark.timeout(60)
 @pytest.mark.parametrize("roll, defense, expected", to_hit_check)
 def test_check_hit_no_if(roll, defense, expected):
     """
     Do a test for Exercise 1
     """
     recreate_msg = helpers.gen_recreate_msg(
-        MODULE, "check_hit_no_if", roll, defense, expected)
-    actual = hw3.check_hit_no_if(roll, defense)
-    helpers.check_not_none(actual, recreate_msg)
-    helpers.check_type(actual, expected, recreate_msg)
-    helpers.check_result(actual, expected, recreate_msg)
+        MODULE, "check_hit_no_if", roll, defense)
+    try:
+        actual = hw3.check_hit_no_if(roll, defense)
+        err_msg = helpers.check_result(actual, expected, recreate_msg)
+        if err_msg is not None:
+            pytest.fail(err_msg)
+    except Exception as e:
+        helpers.fail_and_augment_recreate_unexpected_exception(recreate_msg, e)
 
 
-@pytest.mark.timeout(60)
 @pytest.mark.parametrize("roll, defense, expected", to_hit_check)
 def test_check_hit_no_and_or(roll, defense, expected):
     """
     Do a test for Exercise 2
     """
     recreate_msg = helpers.gen_recreate_msg(
-        MODULE, "check_hit_no_and_or", roll, defense, expected)
-    actual = hw3.check_hit_no_and_or(roll, defense)
-    helpers.check_not_none(actual, recreate_msg)
-    helpers.check_type(actual, expected, recreate_msg)
-    helpers.check_result(actual, expected, recreate_msg)
+        MODULE, "check_hit_no_and_or", roll, defense)
+    try:
+        actual = hw3.check_hit_no_and_or(roll, defense)
+        err_msg = helpers.check_result(actual, expected, recreate_msg)
+        if err_msg is not None:
+            pytest.fail(err_msg)
+    except Exception as e:
+        helpers.fail_and_augment_recreate_unexpected_exception(recreate_msg, e)
 
 
-@pytest.mark.timeout(60)
 @pytest.mark.parametrize("midterm, final, hw, expected",
                          [
                              (72, 77, 75, "C"),
@@ -86,14 +87,16 @@ def test_get_grade(midterm, final, hw, expected):
     Do a test for Exercise 3
     """
     recreate_msg = helpers.gen_recreate_msg(
-        MODULE, "get_grade", midterm, final, hw, expected)
-    actual = hw3.get_grade(midterm, final, hw)
-    helpers.check_not_none(actual, recreate_msg)
-    helpers.check_type(actual, expected, recreate_msg)
-    helpers.check_result(actual, expected, recreate_msg)
+        MODULE, "get_grade", midterm, final, hw)
+    try:
+        actual = hw3.get_grade(midterm, final, hw)
+        err_msg = helpers.check_result(actual, expected, recreate_msg)
+        if err_msg is not None:
+            pytest.fail(err_msg)
+    except Exception as e:
+        helpers.fail_and_augment_recreate_unexpected_exception(recreate_msg, e)
 
 
-@pytest.mark.timeout(60)
 @pytest.mark.parametrize("threshold, values, expected", [
     (0, [1, 2, 3], 6),
     (0, [1, 2, 3, 4, 5, 6, 7, 8, 9], 45),
@@ -110,14 +113,16 @@ def test_find_sum_greater_than(threshold, values, expected):
     Do a test for Exercise 4
     """
     recreate_msg = helpers.gen_recreate_msg(
-        MODULE, "find_sum_greater_than", threshold, values, expected)
-    actual = hw3.find_sum_greater_than(threshold, values)
-    helpers.check_not_none(actual, recreate_msg)
-    helpers.check_type(actual, expected, recreate_msg)
-    helpers.check_result(actual, expected, recreate_msg)
+        MODULE, "find_sum_greater_than", threshold, values)
+    try:
+        actual = hw3.find_sum_greater_than(threshold, values)
+        err_msg = helpers.check_result(actual, expected, recreate_msg)
+        if err_msg is not None:
+            pytest.fail(err_msg)
+    except Exception as e:
+        helpers.fail_and_augment_recreate_unexpected_exception(recreate_msg, e)
 
 
-@pytest.mark.timeout(60)
 @pytest.mark.parametrize("target, values, expected", [
     (0, [1, 2, 3], 0),
     (0, [1, 2, 3, 4, 5, 6, 7, 8, 9], 0),
@@ -134,14 +139,16 @@ def test_find_first_idx_greater_than(target, values, expected):
     Do a test for Exercise 5
     """
     recreate_msg = helpers.gen_recreate_msg(
-        MODULE, "find_first_idx_greater_than", target, values, expected)
-    actual = hw3.find_first_idx_greater_than(target, values)
-    helpers.check_not_none(actual, recreate_msg)
-    helpers.check_type(actual, expected, recreate_msg)
-    helpers.check_result(actual, expected, recreate_msg)
+        MODULE, "find_first_idx_greater_than", target, values)
+    try:
+        actual = hw3.find_first_idx_greater_than(target, values)
+        err_msg = helpers.check_result(actual, expected, recreate_msg)
+        if err_msg is not None:
+            pytest.fail(err_msg)
+    except Exception as e:
+        helpers.fail_and_augment_recreate_unexpected_exception(recreate_msg, e)
 
 
-@pytest.mark.timeout(60)
 @pytest.mark.parametrize("threshold, values, expected", [
     (0, [1, 2, 3], -1),
     (0, [1, 2, 3, 4, 5, 6, 7, 8, 9], -1),
@@ -157,14 +164,16 @@ def test_compare_all(threshold, values, expected):
     Do a test for Exercise 6
     """
     recreate_msg = helpers.gen_recreate_msg(
-        MODULE, "compare_all", threshold, values, expected)
-    actual = hw3.compare_all(threshold, values)
-    helpers.check_not_none(actual, recreate_msg)
-    helpers.check_type(actual, expected, recreate_msg)
-    helpers.check_result(actual, expected, recreate_msg)
+        MODULE, "compare_all", threshold, values)
+    try:
+        actual = hw3.compare_all(threshold, values)
+        err_msg = helpers.check_result(actual, expected, recreate_msg)
+        if err_msg is not None:
+            pytest.fail(err_msg)
+    except Exception as e:
+        helpers.fail_and_augment_recreate_unexpected_exception(recreate_msg, e)
 
 
-@pytest.mark.timeout(60)
 @pytest.mark.parametrize("target, values, expected", [
     (7, [1, 2, 4], 2),
     (7, [1, 2, 4, 9], 2),
@@ -179,14 +188,16 @@ def test_find_last_idx_less_than(target, values, expected):
     Do a test for Exercise 7
     """
     recreate_msg = helpers.gen_recreate_msg(
-        MODULE, "find_last_idx_less_than", target, values, expected)
-    actual = hw3.find_last_idx_less_than(target, values)
-    helpers.check_not_none(actual, recreate_msg)
-    helpers.check_type(actual, expected, recreate_msg)
-    helpers.check_result(actual, expected, recreate_msg)
+        MODULE, "find_last_idx_less_than", target, values)
+    try:
+        actual = hw3.find_last_idx_less_than(target, values)
+        err_msg = helpers.check_result(actual, expected, recreate_msg)
+        if err_msg is not None:
+            pytest.fail(err_msg)
+    except Exception as e:
+        helpers.fail_and_augment_recreate_unexpected_exception(recreate_msg, e)
 
 
-@pytest.mark.timeout(60)
 @pytest.mark.parametrize("list_1, list_2, expected", [
     ([0, 2, 0, 1], [1, 1, 0, 0, 4], 6),
     ([0, 2, 0, 1], [3, 4, 5, 8, 4], 0),
@@ -201,8 +212,11 @@ def test_count_matches(list_1, list_2, expected):
     Do a test for Exercise 8
     """
     recreate_msg = helpers.gen_recreate_msg(
-        MODULE, "count_matches", list_1, list_2, expected)
-    actual = hw3.count_matches(list_1, list_2)
-    helpers.check_not_none(actual, recreate_msg)
-    helpers.check_type(actual, expected, recreate_msg)
-    helpers.check_result(actual, expected, recreate_msg)
+        MODULE, "count_matches", list_1, list_2)
+    try:
+        actual = hw3.count_matches(list_1, list_2)
+        err_msg = helpers.check_result(actual, expected, recreate_msg)
+        if err_msg is not None:
+            pytest.fail(err_msg)
+    except Exception as e:
+        helpers.fail_and_augment_recreate_unexpected_exception(recreate_msg, e)
