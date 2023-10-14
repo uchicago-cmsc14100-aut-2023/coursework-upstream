@@ -1,0 +1,332 @@
+[
+    [
+        [
+            "C",
+            "N",
+            "L",
+            "L",
+            "L",
+            "C",
+            "N"
+        ],
+        1,
+        8.5,
+        [
+            [
+                "Week 1 - Monday - Cortado",
+                "Week 1 - Tuesday - No Coffee",
+                "Week 1 - Wednesday - Latte",
+                "Week 1 - Thursday - No Coffee (Done for the Week)",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "L",
+            "C",
+            "C",
+            "N",
+            "C",
+            "C",
+            "L"
+        ],
+        1,
+        8.5,
+        [
+            [
+                "Week 1 - Monday - Latte",
+                "Week 1 - Tuesday - Cortado",
+                "Week 1 - Wednesday - No Coffee (Done for the Week)",
+                "Week 1 - Thursday - No Coffee (Done for the Week)",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "N",
+            "C",
+            "L",
+            "L",
+            "C",
+            "C",
+            "C"
+        ],
+        1,
+        8.5,
+        [
+            [
+                "Week 1 - Monday - No Coffee",
+                "Week 1 - Tuesday - Cortado",
+                "Week 1 - Wednesday - Latte",
+                "Week 1 - Thursday - No Coffee (Done for the Week)",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "N",
+            "C",
+            "N",
+            "C",
+            "L",
+            "C",
+            "N"
+        ],
+        1,
+        8.5,
+        [
+            [
+                "Week 1 - Monday - No Coffee",
+                "Week 1 - Tuesday - Cortado",
+                "Week 1 - Wednesday - No Coffee",
+                "Week 1 - Thursday - Cortado",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "C",
+            "C",
+            "L",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        1,
+        8.5,
+        [
+            [
+                "Week 1 - Monday - Cortado",
+                "Week 1 - Tuesday - Cortado",
+                "Week 1 - Wednesday - No Coffee (Done for the Week)",
+                "Week 1 - Thursday - No Coffee (Done for the Week)",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "C",
+            "N",
+            "L",
+            "L",
+            "L",
+            "C",
+            "N"
+        ],
+        1,
+        9,
+        [
+            [
+                "Week 1 - Monday - Cortado",
+                "Week 1 - Tuesday - No Coffee",
+                "Week 1 - Wednesday - Latte",
+                "Week 1 - Thursday - No Coffee (Done for the Week)",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "L",
+            "C",
+            "C",
+            "N",
+            "C",
+            "C",
+            "L"
+        ],
+        1,
+        9,
+        [
+            [
+                "Week 1 - Monday - Latte",
+                "Week 1 - Tuesday - Cortado",
+                "Week 1 - Wednesday - No Coffee (Done for the Week)",
+                "Week 1 - Thursday - No Coffee (Done for the Week)",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "N",
+            "C",
+            "L",
+            "L",
+            "C",
+            "C",
+            "C"
+        ],
+        1,
+        9,
+        [
+            [
+                "Week 1 - Monday - No Coffee",
+                "Week 1 - Tuesday - Cortado",
+                "Week 1 - Wednesday - Latte",
+                "Week 1 - Thursday - No Coffee (Done for the Week)",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "N",
+            "C",
+            "N",
+            "C",
+            "L",
+            "C",
+            "N"
+        ],
+        1,
+        9,
+        [
+            [
+                "Week 1 - Monday - No Coffee",
+                "Week 1 - Tuesday - Cortado",
+                "Week 1 - Wednesday - No Coffee",
+                "Week 1 - Thursday - Cortado",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "C",
+            "C",
+            "L",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        1,
+        9,
+        [
+            [
+                "Week 1 - Monday - Cortado",
+                "Week 1 - Tuesday - Cortado",
+                "Week 1 - Wednesday - No Coffee (Done for the Week)",
+                "Week 1 - Thursday - No Coffee (Done for the Week)",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "C",
+            "N",
+            "L",
+            "L",
+            "L",
+            "C",
+            "N"
+        ],
+        1,
+        13,
+        [
+            [
+                "Week 1 - Monday - Cortado",
+                "Week 1 - Tuesday - No Coffee",
+                "Week 1 - Wednesday - Latte",
+                "Week 1 - Thursday - Latte",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "L",
+            "C",
+            "C",
+            "N",
+            "C",
+            "C",
+            "L"
+        ],
+        1,
+        13,
+        [
+            [
+                "Week 1 - Monday - Latte",
+                "Week 1 - Tuesday - Cortado",
+                "Week 1 - Wednesday - Cortado",
+                "Week 1 - Thursday - No Coffee",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "N",
+            "C",
+            "L",
+            "L",
+            "C",
+            "C",
+            "C"
+        ],
+        1,
+        13,
+        [
+            [
+                "Week 1 - Monday - No Coffee",
+                "Week 1 - Tuesday - Cortado",
+                "Week 1 - Wednesday - Latte",
+                "Week 1 - Thursday - Latte",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ],
+    [
+        [
+            "N",
+            "C",
+            "N",
+            "C",
+            "L",
+            "C",
+            "N"
+        ],
+        1,
+        13,
+        [
+            [
+                "Week 1 - Monday - No Coffee",
+                "Week 1 - Tuesday - Cortado",
+                "Week 1 - Wednesday - No Coffee",
+                "Week 1 - Thursday - Cortado",
+                "Week 1 - Friday - Latte"
+            ]
+        ]
+    ],
+    [
+        [
+            "C",
+            "C",
+            "L",
+            "C",
+            "C",
+            "C",
+            "C"
+        ],
+        1,
+        13,
+        [
+            [
+                "Week 1 - Monday - Cortado",
+                "Week 1 - Tuesday - Cortado",
+                "Week 1 - Wednesday - Latte",
+                "Week 1 - Thursday - No Coffee (Done for the Week)",
+                "Week 1 - Friday - No Coffee (Done for the Week)"
+            ]
+        ]
+    ]
+]
