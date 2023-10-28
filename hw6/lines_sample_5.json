@@ -1,0 +1,42 @@
+[
+  {
+    "line_id": 4,
+    "play_name": "Henry IV",
+    "speech_number": 1,
+    "line_number": "1.1.1",
+    "speaker": "KING HENRY IV",
+    "text_entry": "So shaken as we are, so wan with care,"
+  },
+  {
+    "line_id": 5,
+    "play_name": "Henry IV",
+    "speech_number": 1,
+    "line_number": "1.1.2",
+    "speaker": "KING HENRY IV",
+    "text_entry": "Find we a time for frighted peace to pant,"
+  },
+  {
+    "line_id": 57971,
+    "play_name": "macbeth",
+    "speech_number": 20,
+    "line_number": "5.1.46",
+    "speaker": "LADY MACBETH",
+    "text_entry": "perfumes of Arabia will not sweeten this little"
+  },
+  {
+    "line_id": 70260,
+    "play_name": "Much Ado about nothing",
+    "speech_number": 48,
+    "line_number": "2.3.137",
+    "speaker": "LEONATO",
+    "text_entry": "measure him, says she, by my own spirit; for I"
+  },
+  {
+    "line_id": 28464,
+    "play_name": "Coriolanus",
+    "speech_number": 48,
+    "line_number": "5.6.172",
+    "speaker": "Second Lord",
+    "text_entry": "Takes from Aufidius a great part of blame."
+  }
+]

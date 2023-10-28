@@ -1,0 +1,1082 @@
+[
+  [
+    "lines_sample_5.json",
+    "play_name",
+    "Henry IV",
+    [
+      {
+        "line_id": 4,
+        "play_name": "Henry IV",
+        "speech_number": 1,
+        "line_number": "1.1.1",
+        "speaker": "KING HENRY IV",
+        "text_entry": "So shaken as we are, so wan with care,"
+      },
+      {
+        "line_id": 5,
+        "play_name": "Henry IV",
+        "speech_number": 1,
+        "line_number": "1.1.2",
+        "speaker": "KING HENRY IV",
+        "text_entry": "Find we a time for frighted peace to pant,"
+      }
+    ]
+  ],
+  [
+    "lines_sample_5.json",
+    "speaker",
+    "KING HENRY IV",
+    [
+      {
+        "line_id": 4,
+        "play_name": "Henry IV",
+        "speech_number": 1,
+        "line_number": "1.1.1",
+        "speaker": "KING HENRY IV",
+        "text_entry": "So shaken as we are, so wan with care,"
+      },
+      {
+        "line_id": 5,
+        "play_name": "Henry IV",
+        "speech_number": 1,
+        "line_number": "1.1.2",
+        "speaker": "KING HENRY IV",
+        "text_entry": "Find we a time for frighted peace to pant,"
+      }
+    ]
+  ],
+  [
+    "lines_sample_10.json",
+    "play_name",
+    "Twelfth Night",
+    [
+      {
+        "line_id": 105207,
+        "play_name": "Twelfth Night",
+        "speech_number": 29,
+        "line_number": "5.1.89",
+        "speaker": "ANTONIO",
+        "text_entry": "Not half an hour before."
+      },
+      {
+        "line_id": 104691,
+        "play_name": "Twelfth Night",
+        "speech_number": 95,
+        "line_number": "3.4.214",
+        "speaker": "VIOLA",
+        "text_entry": "You mistake, sir; I am sure no man hath any quarrel"
+      }
+    ]
+  ],
+  [
+    "lines_sample_10.json",
+    "speaker",
+    "ANTONIO",
+    [
+      {
+        "line_id": 105207,
+        "play_name": "Twelfth Night",
+        "speech_number": 29,
+        "line_number": "5.1.89",
+        "speaker": "ANTONIO",
+        "text_entry": "Not half an hour before."
+      }
+    ]
+  ],
+  [
+    "lines_sample_100.json",
+    "play_name",
+    "Richard II",
+    [
+      {
+        "line_id": 79744,
+        "play_name": "Richard II",
+        "speech_number": 3,
+        "line_number": "2.4.10",
+        "speaker": "Captain",
+        "text_entry": "The pale-faced moon looks bloody on the earth"
+      },
+      {
+        "line_id": 78932,
+        "play_name": "Richard II",
+        "speech_number": 41,
+        "line_number": "1.3.231",
+        "speaker": "JOHN OF GAUNT",
+        "text_entry": "But stop no wrinkle in his pilgrimage;"
+      },
+      {
+        "line_id": 78535,
+        "play_name": "Richard II",
+        "speech_number": 18,
+        "line_number": "1.1.128",
+        "speaker": "THOMAS MOWBRAY",
+        "text_entry": "The other part reserved I by consent,"
+      },
+      {
+        "line_id": 78943,
+        "play_name": "Richard II",
+        "speech_number": 43,
+        "line_number": "1.3.242",
+        "speaker": "JOHN OF GAUNT",
+        "text_entry": "A partial slander sought I to avoid,"
+      },
+      {
+        "line_id": 81190,
+        "play_name": "Richard II",
+        "speech_number": 1,
+        "line_number": "5.5.38",
+        "speaker": "KING RICHARD II",
+        "text_entry": "And straight am nothing: but whateer I be,"
+      },
+      {
+        "line_id": 79328,
+        "play_name": "Richard II",
+        "speech_number": 41,
+        "line_number": "2.1.238",
+        "speaker": "LORD ROSS",
+        "text_entry": "Unless you call it good to pity him,"
+      }
+    ]
+  ],
+  [
+    "lines_sample_100.json",
+    "speaker",
+    "Clown",
+    [
+      {
+        "line_id": 103239,
+        "play_name": "Twelfth Night",
+        "speech_number": 18,
+        "line_number": "1.5.34",
+        "speaker": "Clown",
+        "text_entry": "Do you not hear, fellows? Take away the lady."
+      },
+      {
+        "line_id": 104875,
+        "play_name": "Twelfth Night",
+        "speech_number": 1,
+        "line_number": "4.1.1",
+        "speaker": "Clown",
+        "text_entry": "Will you make me believe that I am not sent for you?"
+      },
+      {
+        "line_id": 109683,
+        "play_name": "A Winters Tale",
+        "speech_number": 4,
+        "line_number": "4.3.39",
+        "speaker": "Clown",
+        "text_entry": "of sugar, five pound of currants, rice,--what will"
+      }
+    ]
+  ],
+  [
+    "lines_sample_2000.json",
+    "play_name",
+    "Othello",
+    [
+      {
+        "line_id": 75559,
+        "play_name": "Othello",
+        "speech_number": 120,
+        "line_number": "5.2.232",
+        "speaker": "EMILIA",
+        "text_entry": "For thou hast killd the sweetest innocent"
+      },
+      {
+        "line_id": 74012,
+        "play_name": "Othello",
+        "speech_number": 119,
+        "line_number": "3.3.366",
+        "speaker": "IAGO",
+        "text_entry": "Which at the first are scarce found to distaste,"
+      },
+      {
+        "line_id": 75111,
+        "play_name": "Othello",
+        "speech_number": 33,
+        "line_number": "4.3.73",
+        "speaker": "EMILIA",
+        "text_entry": "I might dot as well i the dark."
+      },
+      {
+        "line_id": 73587,
+        "play_name": "Othello",
+        "speech_number": 16,
+        "line_number": "3.1.29",
+        "speaker": "Clown",
+        "text_entry": "shall seem to notify unto her."
+      },
+      {
+        "line_id": 72143,
+        "play_name": "Othello",
+        "speech_number": 36,
+        "line_number": "1.1.139",
+        "speaker": "RODERIGO",
+        "text_entry": "We have your wrong rebuke. Do not believe"
+      },
+      {
+        "line_id": 72570,
+        "play_name": "Othello",
+        "speech_number": 48,
+        "line_number": "1.3.234",
+        "speaker": "BRABANTIO",
+        "text_entry": "Being strong on both sides, are equivocal:"
+      },
+      {
+        "line_id": 72888,
+        "play_name": "Othello",
+        "speech_number": 33,
+        "line_number": "2.1.108",
+        "speaker": "CASSIO",
+        "text_entry": "Let it not gall your patience, good Iago,"
+      },
+      {
+        "line_id": 73556,
+        "play_name": "Othello",
+        "speech_number": 1,
+        "line_number": "3.1.1",
+        "speaker": "CASSIO",
+        "text_entry": "Masters, play here; I will content your pains;"
+      },
+      {
+        "line_id": 74787,
+        "play_name": "Othello",
+        "speech_number": 19,
+        "line_number": "4.2.33",
+        "speaker": "OTHELLO",
+        "text_entry": "Leave procreants alone and shut the door;"
+      },
+      {
+        "line_id": 75095,
+        "play_name": "Othello",
+        "speech_number": 26,
+        "line_number": "4.3.57",
+        "speaker": "DESDEMONA",
+        "text_entry": "[Singing]  I calld my love false love; but what"
+      },
+      {
+        "line_id": 73464,
+        "play_name": "Othello",
+        "speech_number": 88,
+        "line_number": "2.3.306",
+        "speaker": "CASSIO",
+        "text_entry": "I will ask him for my place again; he shall tell me"
+      },
+      {
+        "line_id": 72652,
+        "play_name": "Othello",
+        "speech_number": 64,
+        "line_number": "1.3.315",
+        "speaker": "First Senator",
+        "text_entry": "Adieu, brave Moor, use Desdemona well."
+      },
+      {
+        "line_id": 73236,
+        "play_name": "Othello",
+        "speech_number": 31,
+        "line_number": "2.3.93",
+        "speaker": "IAGO",
+        "text_entry": "Then take thine auld cloak about thee."
+      },
+      {
+        "line_id": 72212,
+        "play_name": "Othello",
+        "speech_number": 3,
+        "line_number": "1.2.7",
+        "speaker": "IAGO",
+        "text_entry": "Nay, but he prated,"
+      },
+      {
+        "line_id": 74481,
+        "play_name": "Othello",
+        "speech_number": 25,
+        "line_number": "4.1.57",
+        "speaker": "IAGO",
+        "text_entry": "My lord, I say! Othello!"
+      },
+      {
+        "line_id": 72941,
+        "play_name": "Othello",
+        "speech_number": 56,
+        "line_number": "2.1.160",
+        "speaker": "DESDEMONA",
+        "text_entry": "merit, did justly put on the vouch of very malice itself?"
+      },
+      {
+        "line_id": 74324,
+        "play_name": "Othello",
+        "speech_number": 66,
+        "line_number": "3.4.133",
+        "speaker": "CASSIO",
+        "text_entry": "So shall I clothe me in a forced content,"
+      },
+      {
+        "line_id": 73332,
+        "play_name": "Othello",
+        "speech_number": 63,
+        "line_number": "2.3.177",
+        "speaker": "OTHELLO",
+        "text_entry": "Speak, who began this? on thy love, I charge thee."
+      },
+      {
+        "line_id": 73748,
+        "play_name": "Othello",
+        "speech_number": 43,
+        "line_number": "3.3.108",
+        "speaker": "IAGO",
+        "text_entry": "But for a satisfaction of my thought;"
+      },
+      {
+        "line_id": 72964,
+        "play_name": "Othello",
+        "speech_number": 62,
+        "line_number": "2.1.183",
+        "speaker": "IAGO",
+        "text_entry": "her, do; I will gyve thee in thine own courtship."
+      },
+      {
+        "line_id": 74149,
+        "play_name": "Othello",
+        "speech_number": 156,
+        "line_number": "3.3.502",
+        "speaker": "OTHELLO",
+        "text_entry": "O, blood, blood, blood!"
+      },
+      {
+        "line_id": 73846,
+        "play_name": "Othello",
+        "speech_number": 74,
+        "line_number": "3.3.206",
+        "speaker": "OTHELLO",
+        "text_entry": "To such exsufflicate and blown surmises,"
+      },
+      {
+        "line_id": 74046,
+        "play_name": "Othello",
+        "speech_number": 126,
+        "line_number": "3.3.399",
+        "speaker": "OTHELLO",
+        "text_entry": "Farewell! Othellos occupations gone!"
+      },
+      {
+        "line_id": 72268,
+        "play_name": "Othello",
+        "speech_number": 16,
+        "line_number": "1.2.61",
+        "speaker": "IAGO",
+        "text_entry": "Hes married."
+      },
+      {
+        "line_id": 74818,
+        "play_name": "Othello",
+        "speech_number": 29,
+        "line_number": "4.2.63",
+        "speaker": "OTHELLO",
+        "text_entry": "A fixed figure for the time of scorn"
+      },
+      {
+        "line_id": 72304,
+        "play_name": "Othello",
+        "speech_number": 27,
+        "line_number": "1.2.94",
+        "speaker": "BRABANTIO",
+        "text_entry": "Subdue him at his peril."
+      },
+      {
+        "line_id": 74455,
+        "play_name": "Othello",
+        "speech_number": 15,
+        "line_number": "4.1.32",
+        "speaker": "IAGO",
+        "text_entry": "Or voluntary dotage of some mistress,"
+      },
+      {
+        "line_id": 75143,
+        "play_name": "Othello",
+        "speech_number": 41,
+        "line_number": "4.3.105",
+        "speaker": "EMILIA",
+        "text_entry": "I think it is: and doth affection breed it?"
+      },
+      {
+        "line_id": 73056,
+        "play_name": "Othello",
+        "speech_number": 76,
+        "line_number": "2.1.271",
+        "speaker": "RODERIGO",
+        "text_entry": "most blessed condition."
+      },
+      {
+        "line_id": 74874,
+        "play_name": "Othello",
+        "speech_number": 46,
+        "line_number": "4.2.116",
+        "speaker": "EMILIA",
+        "text_entry": "Why, with my lord, madam."
+      },
+      {
+        "line_id": 72353,
+        "play_name": "Othello",
+        "speech_number": 11,
+        "line_number": "1.3.22",
+        "speaker": "First Senator",
+        "text_entry": "This cannot be,"
+      },
+      {
+        "line_id": 74847,
+        "play_name": "Othello",
+        "speech_number": 34,
+        "line_number": "4.2.92",
+        "speaker": "DESDEMONA",
+        "text_entry": "By heaven, you do me wrong."
+      },
+      {
+        "line_id": 73580,
+        "play_name": "Othello",
+        "speech_number": 14,
+        "line_number": "3.1.22",
+        "speaker": "Clown",
+        "text_entry": "No, I hear not your honest friend; I hear you."
+      },
+      {
+        "line_id": 74146,
+        "play_name": "Othello",
+        "speech_number": 154,
+        "line_number": "3.3.499",
+        "speaker": "OTHELLO",
+        "text_entry": "To tyrannous hate! Swell, bosom, with thy fraught,"
+      },
+      {
+        "line_id": 72763,
+        "play_name": "Othello",
+        "speech_number": 88,
+        "line_number": "1.3.423",
+        "speaker": "IAGO",
+        "text_entry": "As asses are."
+      },
+      {
+        "line_id": 73663,
+        "play_name": "Othello",
+        "speech_number": 7,
+        "line_number": "3.3.26",
+        "speaker": "DESDEMONA",
+        "text_entry": "His bed shall seem a school, his board a shrift;"
+      },
+      {
+        "line_id": 75070,
+        "play_name": "Othello",
+        "speech_number": 18,
+        "line_number": "4.3.34",
+        "speaker": "DESDEMONA",
+        "text_entry": "But to go hang my head all at one side,"
+      },
+      {
+        "line_id": 73846,
+        "play_name": "Othello",
+        "speech_number": 74,
+        "line_number": "3.3.206",
+        "speaker": "OTHELLO",
+        "text_entry": "To such exsufflicate and blown surmises,"
+      },
+      {
+        "line_id": 74742,
+        "play_name": "Othello",
+        "speech_number": 145,
+        "line_number": "4.1.303",
+        "speaker": "LODOVICO",
+        "text_entry": "And new-create this fault?"
+      },
+      {
+        "line_id": 74310,
+        "play_name": "Othello",
+        "speech_number": 63,
+        "line_number": "",
+        "speaker": "EMILIA",
+        "text_entry": "Enter CASSIO and IAGO"
+      },
+      {
+        "line_id": 72151,
+        "play_name": "Othello",
+        "speech_number": 36,
+        "line_number": "1.1.147",
+        "speaker": "RODERIGO",
+        "text_entry": "If she be in her chamber or your house,"
+      },
+      {
+        "line_id": 74051,
+        "play_name": "Othello",
+        "speech_number": 128,
+        "line_number": "3.3.404",
+        "speaker": "OTHELLO",
+        "text_entry": "Thou hadst been better have been born a dog"
+      },
+      {
+        "line_id": 75085,
+        "play_name": "Othello",
+        "speech_number": 24,
+        "line_number": "4.3.49",
+        "speaker": "DESDEMONA",
+        "text_entry": "Her salt tears fell from her, and softend the stones;"
+      },
+      {
+        "line_id": 74925,
+        "play_name": "Othello",
+        "speech_number": 70,
+        "line_number": "4.2.165",
+        "speaker": "EMILIA",
+        "text_entry": "And put in every honest hand a whip"
+      },
+      {
+        "line_id": 72769,
+        "play_name": "Othello",
+        "speech_number": 88,
+        "line_number": "",
+        "speaker": "IAGO",
+        "text_entry": "Enter MONTANO and two Gentlemen"
+      },
+      {
+        "line_id": 73097,
+        "play_name": "Othello",
+        "speech_number": 85,
+        "line_number": "2.1.311",
+        "speaker": "IAGO",
+        "text_entry": "And I dare think hell prove to Desdemona"
+      },
+      {
+        "line_id": 72977,
+        "play_name": "Othello",
+        "speech_number": 65,
+        "line_number": "",
+        "speaker": "CASSIO",
+        "text_entry": "Enter OTHELLO and Attendants"
+      },
+      {
+        "line_id": 73850,
+        "play_name": "Othello",
+        "speech_number": 74,
+        "line_number": "3.3.210",
+        "speaker": "OTHELLO",
+        "text_entry": "Where virtue is, these are more virtuous:"
+      },
+      {
+        "line_id": 72746,
+        "play_name": "Othello",
+        "speech_number": 88,
+        "line_number": "1.3.406",
+        "speaker": "IAGO",
+        "text_entry": "If I would time expend with such a snipe."
+      },
+      {
+        "line_id": 73392,
+        "play_name": "Othello",
+        "speech_number": 71,
+        "line_number": "2.3.237",
+        "speaker": "IAGO",
+        "text_entry": "And Cassio high in oath; which till to-night"
+      },
+      {
+        "line_id": 75533,
+        "play_name": "Othello",
+        "speech_number": 105,
+        "line_number": "5.2.207",
+        "speaker": "IAGO",
+        "text_entry": "I told him what I thought, and told no more"
+      },
+      {
+        "line_id": 74893,
+        "play_name": "Othello",
+        "speech_number": 53,
+        "line_number": "4.2.133",
+        "speaker": "DESDEMONA",
+        "text_entry": "I am a child to chiding."
+      },
+      {
+        "line_id": 72084,
+        "play_name": "Othello",
+        "speech_number": 14,
+        "line_number": "1.1.81",
+        "speaker": "IAGO",
+        "text_entry": "Awake! what, ho, Brabantio! thieves! thieves! thieves!"
+      },
+      {
+        "line_id": 72644,
+        "play_name": "Othello",
+        "speech_number": 62,
+        "line_number": "1.3.308",
+        "speaker": "OTHELLO",
+        "text_entry": "With what else needful your good grace shall think"
+      },
+      {
+        "line_id": 75470,
+        "play_name": "Othello",
+        "speech_number": 72,
+        "line_number": "5.2.146",
+        "speaker": "DESDEMONA",
+        "text_entry": "A guiltless death I die."
+      },
+      {
+        "line_id": 72541,
+        "play_name": "Othello",
+        "speech_number": 45,
+        "line_number": "1.3.205",
+        "speaker": "DESDEMONA",
+        "text_entry": "Due to the Moor my lord."
+      },
+      {
+        "line_id": 75296,
+        "play_name": "Othello",
+        "speech_number": 70,
+        "line_number": "5.1.125",
+        "speaker": "IAGO",
+        "text_entry": "Cassio hath here been set on in the dark"
+      },
+      {
+        "line_id": 72244,
+        "play_name": "Othello",
+        "speech_number": 8,
+        "line_number": "1.2.38",
+        "speaker": "OTHELLO",
+        "text_entry": "The goodness of the night upon you, friends!"
+      },
+      {
+        "line_id": 75606,
+        "play_name": "Othello",
+        "speech_number": 137,
+        "line_number": "5.2.277",
+        "speaker": "EMILIA",
+        "text_entry": "Ay, ay: O, lay me by my mistress side."
+      },
+      {
+        "line_id": 74748,
+        "play_name": "Othello",
+        "speech_number": 146,
+        "line_number": "4.1.309",
+        "speaker": "IAGO",
+        "text_entry": "And mark how he continues."
+      },
+      {
+        "line_id": 75683,
+        "play_name": "Othello",
+        "speech_number": 159,
+        "line_number": "5.2.348",
+        "speaker": "OTHELLO",
+        "text_entry": "Why he hath thus ensnared my soul and body?"
+      },
+      {
+        "line_id": 74697,
+        "play_name": "Othello",
+        "speech_number": 129,
+        "line_number": "4.1.261",
+        "speaker": "DESDEMONA",
+        "text_entry": "I have not deserved this."
+      },
+      {
+        "line_id": 72515,
+        "play_name": "Othello",
+        "speech_number": 42,
+        "line_number": "1.3.180",
+        "speaker": "OTHELLO",
+        "text_entry": "And that would woo her. Upon this hint I spake:"
+      },
+      {
+        "line_id": 74221,
+        "play_name": "Othello",
+        "speech_number": 20,
+        "line_number": "3.4.33",
+        "speaker": "OTHELLO",
+        "text_entry": "Well, my good lady."
+      },
+      {
+        "line_id": 74162,
+        "play_name": "Othello",
+        "speech_number": 159,
+        "line_number": "3.3.514",
+        "speaker": "IAGO",
+        "text_entry": "Do not rise yet."
+      },
+      {
+        "line_id": 73734,
+        "play_name": "Othello",
+        "speech_number": 34,
+        "line_number": "3.3.95",
+        "speaker": "OTHELLO",
+        "text_entry": "To leave me but a little to myself."
+      },
+      {
+        "line_id": 74953,
+        "play_name": "Othello",
+        "speech_number": 76,
+        "line_number": "4.2.193",
+        "speaker": "DESDEMONA",
+        "text_entry": "If twere no other--"
+      },
+      {
+        "line_id": 75736,
+        "play_name": "Othello",
+        "speech_number": 173,
+        "line_number": "5.2.401",
+        "speaker": "OTHELLO",
+        "text_entry": "Drop tears as fast as the Arabian trees"
+      },
+      {
+        "line_id": 73057,
+        "play_name": "Othello",
+        "speech_number": 77,
+        "line_number": "2.1.272",
+        "speaker": "IAGO",
+        "text_entry": "Blessed figs-end! the wine she drinks is made of"
+      },
+      {
+        "line_id": 75050,
+        "play_name": "Othello",
+        "speech_number": 10,
+        "line_number": "4.3.14",
+        "speaker": "DESDEMONA",
+        "text_entry": "And bade me to dismiss you."
+      },
+      {
+        "line_id": 73049,
+        "play_name": "Othello",
+        "speech_number": 75,
+        "line_number": "2.1.264",
+        "speaker": "IAGO",
+        "text_entry": "counterfeit advantages, though true advantage never"
+      },
+      {
+        "line_id": 72513,
+        "play_name": "Othello",
+        "speech_number": 42,
+        "line_number": "1.3.178",
+        "speaker": "OTHELLO",
+        "text_entry": "And bade me, if I had a friend that loved her,"
+      },
+      {
+        "line_id": 72316,
+        "play_name": "Othello",
+        "speech_number": 30,
+        "line_number": "1.2.106",
+        "speaker": "OTHELLO",
+        "text_entry": "Upon some present business of the state"
+      },
+      {
+        "line_id": 74114,
+        "play_name": "Othello",
+        "speech_number": 143,
+        "line_number": "3.3.467",
+        "speaker": "IAGO",
+        "text_entry": "Let us be wary, let us hide our loves;"
+      },
+      {
+        "line_id": 72779,
+        "play_name": "Othello",
+        "speech_number": 4,
+        "line_number": "2.1.10",
+        "speaker": "Second Gentleman",
+        "text_entry": "A segregation of the Turkish fleet:"
+      },
+      {
+        "line_id": 75157,
+        "play_name": "Othello",
+        "speech_number": 1,
+        "line_number": "5.1.3",
+        "speaker": "IAGO",
+        "text_entry": "Quick, quick; fear nothing; Ill be at thy elbow:"
+      },
+      {
+        "line_id": 74506,
+        "play_name": "Othello",
+        "speech_number": 35,
+        "line_number": "4.1.80",
+        "speaker": "IAGO",
+        "text_entry": "May draw with you: theres millions now alive"
+      }
+    ]
+  ],
+  [
+    "lines_sample_2000.json",
+    "speaker",
+    "GLOUCESTER",
+    [
+      {
+        "line_id": 12526,
+        "play_name": "Henry VI Part 3",
+        "speech_number": 5,
+        "line_number": "5.6.12",
+        "speaker": "GLOUCESTER",
+        "text_entry": "The thief doth fear each bush an officer."
+      },
+      {
+        "line_id": 6280,
+        "play_name": "Henry VI Part 2",
+        "speech_number": 14,
+        "line_number": "1.1.86",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Brave York, Salisbury, and victorious Warwick,"
+      },
+      {
+        "line_id": 51388,
+        "play_name": "King Lear",
+        "speech_number": 27,
+        "line_number": "3.7.57",
+        "speaker": "GLOUCESTER",
+        "text_entry": "To Dover."
+      },
+      {
+        "line_id": 81362,
+        "play_name": "Richard III",
+        "speech_number": 1,
+        "line_number": "1.1.19",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Cheated of feature by dissembling nature,"
+      },
+      {
+        "line_id": 6502,
+        "play_name": "Henry VI Part 2",
+        "speech_number": 6,
+        "line_number": "1.2.41",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Nay, Eleanor, then must I chide outright:"
+      },
+      {
+        "line_id": 49054,
+        "play_name": "King Lear",
+        "speech_number": 8,
+        "line_number": "1.1.24",
+        "speaker": "GLOUCESTER",
+        "text_entry": "whoreson must be acknowledged. Do you know this"
+      },
+      {
+        "line_id": 11180,
+        "play_name": "Henry VI Part 3",
+        "speech_number": 81,
+        "line_number": "3.2.181",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Then, since this earth affords no joy to me,"
+      },
+      {
+        "line_id": 6286,
+        "play_name": "Henry VI Part 2",
+        "speech_number": 14,
+        "line_number": "1.1.92",
+        "speaker": "GLOUCESTER",
+        "text_entry": "How France and Frenchmen might be kept in awe,"
+      },
+      {
+        "line_id": 83509,
+        "play_name": "Richard III",
+        "speech_number": 22,
+        "line_number": "3.5.93",
+        "speaker": "GLOUCESTER",
+        "text_entry": "But touch this sparingly, as twere far off,"
+      },
+      {
+        "line_id": 81787,
+        "play_name": "Richard III",
+        "speech_number": 88,
+        "line_number": "1.2.265",
+        "speaker": "GLOUCESTER",
+        "text_entry": "My dukedom to a beggarly denier,"
+      },
+      {
+        "line_id": 4461,
+        "play_name": "Henry VI Part 1",
+        "speech_number": 2,
+        "line_number": "3.1.22",
+        "speaker": "GLOUCESTER",
+        "text_entry": "And for thy treachery, whats more manifest?"
+      },
+      {
+        "line_id": 81928,
+        "play_name": "Richard III",
+        "speech_number": 39,
+        "line_number": "1.3.123",
+        "speaker": "GLOUCESTER",
+        "text_entry": "I was a pack-horse in his great affairs;"
+      },
+      {
+        "line_id": 11153,
+        "play_name": "Henry VI Part 3",
+        "speech_number": 81,
+        "line_number": "3.2.154",
+        "speaker": "GLOUCESTER",
+        "text_entry": "And chides the sea that sunders him from thence,"
+      },
+      {
+        "line_id": 51145,
+        "play_name": "King Lear",
+        "speech_number": 46,
+        "line_number": "3.4.169",
+        "speaker": "GLOUCESTER",
+        "text_entry": "No father his son dearer: truth to tell thee,"
+      },
+      {
+        "line_id": 6288,
+        "play_name": "Henry VI Part 2",
+        "speech_number": 14,
+        "line_number": "1.1.94",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Crowned in Paris in despite of foes?"
+      },
+      {
+        "line_id": 82981,
+        "play_name": "Richard III",
+        "speech_number": 18,
+        "line_number": "3.1.66",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Then where you please, and shall be thought most fit"
+      },
+      {
+        "line_id": 11520,
+        "play_name": "Henry VI Part 3",
+        "speech_number": 11,
+        "line_number": "4.1.20",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Not I:"
+      },
+      {
+        "line_id": 7553,
+        "play_name": "Henry VI Part 2",
+        "speech_number": 16,
+        "line_number": "3.1.102",
+        "speaker": "GLOUCESTER",
+        "text_entry": "The purest spring is not so free from mud"
+      },
+      {
+        "line_id": 7056,
+        "play_name": "Henry VI Part 2",
+        "speech_number": 80,
+        "line_number": "2.1.143",
+        "speaker": "GLOUCESTER",
+        "text_entry": "distinguish of colours, but suddenly to nominate them"
+      },
+      {
+        "line_id": 50952,
+        "play_name": "King Lear",
+        "speech_number": 3,
+        "line_number": "3.3.15",
+        "speaker": "GLOUCESTER",
+        "text_entry": "privily relieve him: go you and maintain talk with"
+      },
+      {
+        "line_id": 4557,
+        "play_name": "Henry VI Part 1",
+        "speech_number": 24,
+        "line_number": "3.1.114",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Shall pitch a field when we are dead."
+      },
+      {
+        "line_id": 83522,
+        "play_name": "Richard III",
+        "speech_number": 26,
+        "line_number": "3.5.104",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Go thou to Friar Penker; bid them both"
+      },
+      {
+        "line_id": 38849,
+        "play_name": "Henry V",
+        "speech_number": 80,
+        "line_number": "4.1.304",
+        "speaker": "GLOUCESTER",
+        "text_entry": "My liege!"
+      },
+      {
+        "line_id": 7091,
+        "play_name": "Henry VI Part 2",
+        "speech_number": 98,
+        "line_number": "",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Enter BUCKINGHAM"
+      },
+      {
+        "line_id": 81931,
+        "play_name": "Richard III",
+        "speech_number": 39,
+        "line_number": "1.3.126",
+        "speaker": "GLOUCESTER",
+        "text_entry": "To royalize his blood I spilt mine own."
+      },
+      {
+        "line_id": 51916,
+        "play_name": "King Lear",
+        "speech_number": 29,
+        "line_number": "4.6.90",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Enough, enough, and die. That thing you speak of,"
+      },
+      {
+        "line_id": 83473,
+        "play_name": "Richard III",
+        "speech_number": 18,
+        "line_number": "3.5.58",
+        "speaker": "GLOUCESTER",
+        "text_entry": "The manner and the purpose of his treason;"
+      },
+      {
+        "line_id": 6295,
+        "play_name": "Henry VI Part 2",
+        "speech_number": 14,
+        "line_number": "1.1.101",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Razing the characters of your renown,"
+      },
+      {
+        "line_id": 81436,
+        "play_name": "Richard III",
+        "speech_number": 11,
+        "line_number": "1.1.92",
+        "speaker": "GLOUCESTER",
+        "text_entry": "You may partake of any thing we say:"
+      },
+      {
+        "line_id": 11190,
+        "play_name": "Henry VI Part 3",
+        "speech_number": 81,
+        "line_number": "3.2.191",
+        "speaker": "GLOUCESTER",
+        "text_entry": "That rends the thorns and is rent with the thorns,"
+      },
+      {
+        "line_id": 81454,
+        "play_name": "Richard III",
+        "speech_number": 18,
+        "line_number": "1.1.110",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Brother, farewell: I will unto the king;"
+      },
+      {
+        "line_id": 51370,
+        "play_name": "King Lear",
+        "speech_number": 16,
+        "line_number": "3.7.39",
+        "speaker": "GLOUCESTER",
+        "text_entry": "To pluck me by the beard."
+      },
+      {
+        "line_id": 81396,
+        "play_name": "Richard III",
+        "speech_number": 5,
+        "line_number": "1.1.52",
+        "speaker": "GLOUCESTER",
+        "text_entry": "O, belike his majesty hath some intent"
+      },
+      {
+        "line_id": 50118,
+        "play_name": "King Lear",
+        "speech_number": 20,
+        "line_number": "2.1.65",
+        "speaker": "GLOUCESTER",
+        "text_entry": "By his authority I will proclaim it,"
+      },
+      {
+        "line_id": 81454,
+        "play_name": "Richard III",
+        "speech_number": 18,
+        "line_number": "1.1.110",
+        "speaker": "GLOUCESTER",
+        "text_entry": "Brother, farewell: I will unto the king;"
+      }
+    ]
+  ]
+]
