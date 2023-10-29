@@ -337,7 +337,7 @@ def check_result(actual, expected, recreate_msg=None):
             return msg
     # Check dict, and look 
     elif isinstance(expected, dict):
-        msg = check_dict_values(actual, expected, recreate_msg)
+        msg = check_dict_values(actual, expected, recreate_msg=recreate_msg)
         if msg is not None:
             return msg
     # Otherwise, check that the actual value is equal to the expected value
@@ -538,7 +538,7 @@ def check_2d_iterable(actual, expected, recreate_msg):
     return None
 
 
-def check_dict_values(expected, actual, unordered_values=True, recreate_msg=None):
+def check_dict_values(actual, expected, unordered_values=True, recreate_msg=None):
     '''
     Function to check the values in a dictionary. Generates an error if the
     actual dictionary is not the same as the expected. Return None if no
