@@ -209,14 +209,12 @@ play_tests = [
         ( "r0,1", True, "1"),
         ( "r1,1", True, "1"),
         ( "r1,0", True, "1"),
-        ( "r0,0", True, MINE),
-        ( "r0,0", False, MINE),
     ] ),
     ( "2,2", [
+        ( "s0,0", True, NM),
         ( "m0,0", True, MARK),
-        ( "s0,0", False, MARK),
-        ( "r0,0", True, "0"),
-        ( "r0,0", False, "0"),
+        ( "r0,1", True, "1"),
+        ( "r0,0", True, MINE),
     ] ),
     ( "2,2", [
         ( "s0,0", True, NM),
@@ -331,6 +329,15 @@ state_tests = [
         ( "s0,0", True, NM, ACTIVE_GAME),
         ( "r1,1", True, "1", ACTIVE_GAME),
         ( "r0,0", True, MINE, LOST_GAME),
+    ] ),
+    ( "2,2", [
+        ( "s0,0", True, NM, ACTIVE_GAME),
+        ( "m0,0", True, MARK, ACTIVE_GAME),
+        ( "r0,1", True, "1", ACTIVE_GAME),
+        ( "r1,1", True, "1", ACTIVE_GAME),
+        ( "r1,0", True, "1", WON_GAME),
+        ( "r0,0", False, MARK, WON_GAME),
+        ( "r0,0", False, MARK, WON_GAME),
     ] ),
     ( "2,2", [
         ( "s0,0", True, NM, ACTIVE_GAME),
