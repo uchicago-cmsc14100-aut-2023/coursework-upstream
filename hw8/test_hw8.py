@@ -355,7 +355,7 @@ def compare_schedules(s1, s2):
     # s1 also occur in s2.
     for s1_day, s1_instructors in s1.items():
         if s1_day not in s2:
-            return False
+            return s1_instructors == []
         if len(s1_instructors) != len(s2[s1_day]):
             return False
         if set(s1_instructors) != set(s2[s1_day]):
@@ -365,7 +365,7 @@ def compare_schedules(s1, s2):
     # occur in s2 also occur in s1.
     for s2_day, s2_instructors in s2.items():
         if s2_day not in s1:
-            return False
+            return s2_instructors == []
         if len(s2_instructors) != len(s1[s2_day]):
             return False
         if set(s2_instructors) != set(s1[s2_day]):
